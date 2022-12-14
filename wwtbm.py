@@ -51,6 +51,6 @@ def main_game(gm):
             else:
                 print("Seems its not correct answer. Sorry. But you lose Game")
                 exit()
-        print("WOAH YOU ARE A MONSTER. YOU ANSWERED CORRECTLY TO ALL QUESTION")
+        print("WOAH YOU ARE A GENIUS. YOU ANSWERED CORRECTLY TO ALL QUESTIONS")
 
 choise_btw_gm()
